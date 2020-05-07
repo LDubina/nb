@@ -7,5 +7,6 @@
 	"settings": {
 		"liveServer.settings.multiRootWorkspaceName": "HTML",
 		"liveServer.settings.useWebExt": true
-	}
+	},
+	"php.memoryLimit": ""
 }
