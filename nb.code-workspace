@@ -5,8 +5,9 @@
 		}
 	],
 	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "HTML",
-		"liveServer.settings.useWebExt": true
+		"liveServer.settings.multiRootWorkspaceName": "HTML"
 	},
-	"php.memoryLimit": ""
+	"php.memoryLimit": "",
+	"liveServer.settings.host": "",
+	"liveServer.settings.https": {}
 }
