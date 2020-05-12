@@ -10,4 +10,7 @@
 	"php.memoryLimit": "",
 	"liveServer.settings.host": "",
 	"liveServer.settings.https": {}
+		"liveServer.settings.multiRootWorkspaceName": "HTML",
+		"liveServer.settings.useWebExt": true
+	}
 }
